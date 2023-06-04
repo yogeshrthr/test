@@ -1,0 +1,18 @@
+
+.background_active{
+    background-color:#4b49ac;
+    position: relative;
+    border-radius: 8px;
+    
+}
+.dashboard_icon{
+    
+    color: white!important;
+}
+.swal2-confirm{
+    margin-left: 10px!important;
+}
+.sel_col{
+    color: black!important;
+}
+
